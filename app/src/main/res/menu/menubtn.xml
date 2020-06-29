@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navipop"
+        android:icon="@android:drawable/ic_popup_disk_full"
+        android:title=""
+        />
+    <item
+        android:id="@+id/navitop"
+        android:icon="@android:drawable/arrow_down_float"
+        android:title=""
+        />
+</menu>
